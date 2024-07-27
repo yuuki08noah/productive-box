@@ -5,7 +5,7 @@
 > 2. move the **TIMEZONE** to the Repository variable
 >    For details, refer to the third point in [Project Setup](https://github.com/maxam2017/productive-box/tree/master?tab=readme-ov-file#project-setup).
 >
-> p.s. when you see this notice in the README of your forked repository, it means you have upgraded to v1.1.5
+> p.s. when you see this notice in the README of your forked repository, it means you hav e upgraded to v1.1.5
 
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
